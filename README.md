@@ -5,6 +5,11 @@ For more information about Commonroad, please refer to:
 
 https://commonroad.in.tum.de/
 
+Required packages:
+```
+pip install commonroad-io commonroad-vehicle-models
+```
+
 ## How it can be used
 
 The scenarioGenerator function in /env allows to reproduce arbitrary highway environments which are preliminary constrained to straight lane settings. The configuration details can be chosen in env/config/.
