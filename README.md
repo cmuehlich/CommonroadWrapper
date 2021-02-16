@@ -9,7 +9,7 @@ https://commonroad.in.tum.de/
 
 The scenarioGenerator function in /env allows to reproduce arbitrary highway environments which are preliminary constrained to straight lane settings. The configuration details can be chosen in env/config/.
 
-To generate a basic highway environment lanes:
+To generate a basic highway environment:
 
 1. Set the lane parameters in /env/config/scenarioConfig.yaml, the obstacle attribute is irrelevant here as the generator will only produce the scenario layout.
 
