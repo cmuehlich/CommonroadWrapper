@@ -1,0 +1,15 @@
+lane_width: 3.5
+lane_offset: -1.75
+lane_count: 3
+lane_length: 300
+speed_limit: 120
+obstacles: [{"lane": 1, "x_pos": 15, "speed": 0.6},
+            {"lane": 1, "x_pos": 22, "speed": 0.6},
+            {"lane": 2, "x_pos": 2, "speed": 0.7},
+            {"lane": 2, "x_pos": 10, "speed": 0.7},
+            {"lane": 2, "x_pos": 17, "speed": 0.7},
+            {"lane": 2, "x_pos": 25, "speed": 0.7},
+            {"lane": 3, "x_pos": 4, "speed": 0.85},
+            {"lane": 3, "x_pos": 15, "speed": 0.8},
+            {"lane": 3, "x_pos": 22, "speed": 0.8},
+            {"lane": 3, "x_pos": 30, "speed": 0.75}]

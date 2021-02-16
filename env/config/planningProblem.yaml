@@ -1,0 +1,9 @@
+"1" : { start_state: {"x": 5,
+                      "y": 0 },
+        "goals": [goal_region: {"center": [ 200, 0 ],
+                                "width": 3,
+                                "length": 5},
+                  goal_region: {"center": [ 150, 3.5 ],
+                                "width": 2,
+                                "length": 5 }]
+        }
